@@ -1,5 +1,5 @@
 // const person = {
-//zz//     x:10,
+//     x:10,
 //     firstName: 'Piyush',
 //     lastName:'Garg',
 //     hobbies: ['Coding', 'Walking'],
